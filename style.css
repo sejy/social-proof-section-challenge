@@ -60,7 +60,7 @@ main{
     justify-content: space-around;
     align-items: center;
     background-color: var(--Light-Grayish-Magenta);
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     padding: 1em 2em;
     border-radius: .5em;
     position: relative;
